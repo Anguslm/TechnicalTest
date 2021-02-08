@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d62015bc-9fa5-4bfb-9769-b3f19147a373" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefs/FactorFinderSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/featureFiles/FactorFinderTests.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FactorFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/FactorFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FactorFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefs/FactorFinderSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefs/FactorFinderSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/featureFiles/FactorFinderTests.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/featureFiles/FactorFinderTests.feature" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber java.Scenario: Multiple of 3">
+  <component name="RunManager" selected="TestNG.Runner">
     <configuration name="Scenario: Multiple of 3" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="3" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/featureFiles/FactorFinderTests.feature" />
@@ -94,8 +89,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber java.Scenario: Multiple of 3" />
         <item itemvalue="TestNG.Runner" />
+        <item itemvalue="Cucumber java.Scenario: Multiple of 3" />
       </list>
     </recent_temporary>
   </component>

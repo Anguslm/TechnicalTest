@@ -21,6 +21,7 @@ public class FactorFinderSteps {
 
     @Then("The factor finder returns the string {}")
     public void factorFinderReturnsString (String expectedOutput) {
+        System.out.println("Expected [" + expectedOutput + "] and found [" + factorFinderOutput + "]");
         Assert.assertEquals(factorFinderOutput, expectedOutput);
     }
 }
