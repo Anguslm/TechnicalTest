@@ -8,6 +8,7 @@ import org.testng.Assert;
 public class FactorFinderSteps {
     private FactorFinder factorFinder;
 
+    //Stores the out put of the factor finder from the when step, so it can be accessed and checked by the then step
     private String factorFinderOutput;
 
     public FactorFinderSteps() {

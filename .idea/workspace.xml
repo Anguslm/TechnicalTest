@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d62015bc-9fa5-4bfb-9769-b3f19147a373" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/FactorFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/FactorFinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepdefs/FactorFinderSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefs/FactorFinderSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/featureFiles/FactorFinderTests.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/featureFiles/FactorFinderTests.feature" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,8 +84,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.Runner" />
       <item itemvalue="Cucumber java.Scenario: Multiple of 3" />
+      <item itemvalue="TestNG.Runner" />
     </list>
     <recent_temporary>
       <list>
